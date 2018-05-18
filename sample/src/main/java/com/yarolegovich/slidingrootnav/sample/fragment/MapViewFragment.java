@@ -38,7 +38,8 @@ public class MapViewFragment extends Fragment implements OnMapReadyCallback ,Goo
     //To store longitude and latitude from map
     private double longitude;
     private double latitude;
-    private GoogleMap mMap;
+    private GoogleMap mMap ;
+    String string;
 
 
     @Override
