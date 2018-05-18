@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "468601009547",
+    "firebase_url": "https://battapp-f8fd9.firebaseio.com",
+    "project_id": "battapp-f8fd9",
+    "storage_bucket": "battapp-f8fd9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468601009547:android:d55f4d24d226f7c3",
+        "android_client_info": {
+          "package_name": "com.knowlabs.cycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468601009547-vte5kdtdh4qdigopun32f66iv6lhvca4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJBGPj2c5OX5sWQxyf-Iepi9Dnd4X1MCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
